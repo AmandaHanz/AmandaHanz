@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate Software Developer, ML and Data S
 ### 🛠️ Technologies & Tools I Work With
 
 #### **Technologies**
-- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Javafx](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Javafx](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
  ![OpenAI](https://img.shields.io/badge/OpenAI-00A9E0?style=for-the-badge&logo=openai&logoColor=white)
@@ -47,12 +47,9 @@ Welcome to my GitHub profile! I'm a passionate Software Developer, ML and Data S
 ---
 
 ### 💌 Let's Connect!
-- 🌐 Portfolio : [My Portfolio](https://portfolio-amanda-hansamalis-projects.vercel.app/)
-- ✉️ Email: [amandahansamali18@gmail.com](mailto:amandahansamali18@gmail.com)
-- 💼 LinkedIn: [Amanda Hansamali](https://linkedin.com/in/amanda-hansamali)
-- 📝 Medium: [Amanda Hansamali](https://medium.com/@amandahansamali)
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://portfolio-amanda-hansamalis-projects.vercel.app/)  [![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:amandahansamali18@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amanda-hansamali)  [![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?logo=medium&logoColor=white)](https://medium.com/@amandahansamali)  
+
 
 Let's connect, collaborate, and explore the world of bits and bytes together! 👩‍💻👨‍💻
 
