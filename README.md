@@ -46,6 +46,16 @@ Welcome to my GitHub profile! I'm a passionate Software Developer, ML and Data S
 
 ---
 
+## GitHub Stats
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AmandaHanz&limit=5&theme=neon&combine_all_yearly_contributions=true)
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaHanz&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+
 ### 💌 Let's Connect!
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://portfolio-amanda-hansamalis-projects.vercel.app/)  [![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:amandahansamali18@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amanda-hansamali)  [![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?logo=medium&logoColor=white)](https://medium.com/@amandahansamali)  
