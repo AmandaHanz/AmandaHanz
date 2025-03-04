@@ -1,11 +1,15 @@
-# Hey there, I'm Amanda ! 👋
+# Hey there, I'm Amanda! 👋  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7CE3E&size=24&center=true&vCenter=true&lines=Welcome+to+my+GitHub!+🚀;Passionate+Software+Developer;ML+%26+Data+Science+Enthusiast;Let's+build+something+awesome!)](https://github.com/AmandaHanz)  
+
+
+---
 
 Welcome to my GitHub profile! I'm a passionate Software Developer, ML and Data Science Enthusiast, and lifelong learner. Let's create amazing things together! 💻🚀
 
 ---
 
 ### 🌱 About Me
-- 🎓 Currently pursuing a **BSc.(Hons) Computer Science** with a focus on software development, ML, and data science at [**Informatics Institute of Technology**](https://www.iit.ac.lk/) in collaboration with [University of Westminster](https://www.westminster.ac.uk/).
+- 🎓 **BSc.(Hons) Computer Science** | [IIT](https://www.iit.ac.lk/) x [University of Westminster](https://www.westminster.ac.uk/)
 - 📚 An **avid learner** always looking to expand my knowledge in emerging technologies and deepen my understanding of the latest trends.
 - 🧑‍💻 I have a strong passion for **problem-solving**, **Machine Learning**, and **Software Development**.
 - 🤝 Open to collaborating on **Software Development and ML projects**.
