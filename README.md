@@ -47,6 +47,10 @@ Welcome to my GitHub profile! I'm a passionate Software Developer, ML and Data S
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaHanz&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmandaHanz&theme=tokyonight" alt="AmandaHanz" />
+</p>
+
 ---
 
 ### 💌 Let's Connect!
