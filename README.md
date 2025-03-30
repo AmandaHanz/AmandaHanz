@@ -8,7 +8,8 @@ Welcome to my GitHub profile! I'm a passionate Software Developer, ML and Data S
 
 ---
 
-### 🌱 About Me
+	
+### <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **About me**
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="200" width="200" alt="GIF" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
