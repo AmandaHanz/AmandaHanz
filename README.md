@@ -95,7 +95,7 @@ Welcome to my GitHub profile! I'm a passionate Software Developer, ML and Data S
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Let's Connect!
 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://portfolio-amanda-hansamalis-projects.vercel.app/)  [![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:amandahansamali18@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amanda-hansamali)  [![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?logo=medium&logoColor=white)](https://medium.com/@amandahansamali)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://amanda-dev.vercel.app/)  [![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:amandahansamali18@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amanda-hansamali)  [![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?logo=medium&logoColor=white)](https://medium.com/@amandahansamali)  
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=AmandaHanz&label=Profile%20views&color=0047AB&style=plastic?" alt="zionashirwada" height=25px, width=160px/> 
