@@ -55,7 +55,7 @@ Welcome to my GitHub profile! I'm a passionate Software Developer, ML and Data S
 
 ---
 
-## GitHub Stats
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;GitHub Stats
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=108511110" target="_blank" style="display: block" align="center">
   <picture>
