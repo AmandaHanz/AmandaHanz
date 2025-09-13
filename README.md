@@ -1,3 +1,9 @@
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
+
+
+
 # Hey there, I'm Amanda!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7CE3E&size=24&center=true&vCenter=true&lines=Welcome+to+my+GitHub!+🚀;Passionate+Software+Developer;ML+%26+Data+Science+Enthusiast;Let's+build+something+awesome!)](https://github.com/AmandaHanz)  
 
